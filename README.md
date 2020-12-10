@@ -10,4 +10,4 @@ A calculadora vem pré-programada com 6 operações, sendo elas:\
 Mas ela vem também com a facilidade de implementar novas operações sem muito trabalho, bastando criar a função desejada no arquivo ‘operacoes.h’ e seu algoritmo em ‘operacoes.c’.\
 O código da calculadora foi escrito por mim mesmo, mas foi altamente baseado nos códigos disponibilizados para estudo pelos professores Otávio Gomes e Rodrigo Almeida, docentes da Universidade Federal de Itajubá.
 Para realizar este projeto, necessita-se que tenha em mãos um simulador da placa de desenvolvimento PicGenius ou senão, a própria de maneira física e seu gravador de códigos.\
-Para mais detalhes sobre o desenvolvimento, veja o PDF 'Detalhamento_do_Desenvolvimento'incluso no projeto.
+Para mais detalhes sobre o desenvolvimento, veja o PDF 'Detalhamento_do_Desenvolvimento' incluso no projeto.
