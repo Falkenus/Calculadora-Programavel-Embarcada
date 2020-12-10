@@ -1,4 +1,4 @@
-#Calculadora programável com PicGenius\
+Calculadora programável com PicGenius\
 Este projeto foi desenvolvido no final da disciplina de Laboratório de Programação Embarcada, com a motivação de fazer uma aplicação utilizando o PicGenius e que seja largamente utilizada no dia a dia.\
 A calculadora vem pré-programada com 6 operações, sendo elas:\
 •	Adição\
